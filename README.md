@@ -8,3 +8,7 @@ This is initially restricted to wards in the Borough of Camden, London, UK.
 Can then be compered to access to green space data calculated for all wards in England.
 
 This is currently being cleaned an uploaded. From a short project in 2017.
+
+The green space data and access to green space data was requested from gigl.org.uk
+
+The tree data was downloaded from https://data.london.gov.uk/dataset/local-authority-maintained-trees
