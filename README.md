@@ -12,3 +12,5 @@ This is currently being cleaned an uploaded. From a short project in 2017.
 The green space data and access to green space data was requested from gigl.org.uk
 
 The tree data was downloaded from https://data.london.gov.uk/dataset/local-authority-maintained-trees
+
+Code is in one continuous very inefficient script. To be rationalised if I ever get around to it.
